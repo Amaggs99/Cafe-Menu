@@ -1,3 +1,3 @@
 # Web-Pages
 
-https://github.com/Amaggs99/Cafe-Menu-Web-Page.git
+https://amaggs99.github.io/Cafe-Menu-Web-Page/
